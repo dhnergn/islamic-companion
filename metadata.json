@@ -1,0 +1,6 @@
+{
+  "name": "Islamic Companion",
+  "description": "A beautiful Islamic assistant displaying prayer times, daily Quran verses with Gemini explanations, a Qibla compass, and daily push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
